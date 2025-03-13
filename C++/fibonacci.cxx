@@ -3,6 +3,10 @@
 
 using namespace std;
 
+int fibonacci()
+{
+    return 0;
+}
 int main()
 {
     int m;
