@@ -2,14 +2,24 @@
 using namespace std;
 
 int factorial(int n)
+// {
+//     int m = 1;
+//     for (int i = 1; i <= n; i++)
+//     {
+//         m *= i;
+//     }
+//     return m;
+//     // cout << n << endl;
+// }
 {
-    int m = 1;
-    for (int i = 1; i <= n; i++)
+    if (n == 0)
     {
-        m *= i;
+        return 1;
     }
-    return m;
-    // cout << n << endl;
+    else
+    {
+        return n * factorial(n - 1);
+    }
 }
 
 int main()
