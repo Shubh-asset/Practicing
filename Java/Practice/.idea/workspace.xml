@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30e5e6f5-035e-4c84-8f3c-f4070ee34c65" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Java/src/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +39,7 @@
     "Application.Main.executor": "Run",
     "Application.arrayss.executor": "Run",
     "Application.casting.executor": "Run",
+    "Application.input.executor": "Run",
     "Application.strings.executor": "Run",
     "Application.types.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
